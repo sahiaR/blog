@@ -1,7 +1,12 @@
+---
+layout: default
+title: "DSA Notes & Competitive Programming"
+---
 
-Bienvenue.
+# Bienvenue
+Ici je poste mes notes sur :
+- DSA
+- Competitive Programming
 
-Je met mes notes ici :
--DSA/Competitives Programming
--Analyse de données 
--IA agentique
+## Navigation
+- Les articles seront dans le dossier `posts/`
